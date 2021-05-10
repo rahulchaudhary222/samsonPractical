@@ -1,0 +1,16 @@
+.userListCard {
+  display: flex;
+  width: 90%;
+  border-radius: 4px;
+  box-shadow: 1px 1px 5px #ccc;
+  align-items: center;
+  margin-bottom: 10px;
+  height: 40px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.userListCard > img {
+  width: 40px;
+  height: 40px;
+}
